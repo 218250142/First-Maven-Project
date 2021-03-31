@@ -15,7 +15,8 @@ import org.junit.jupiter.api.Disabled;
 
 /**
  *
- * @author Levi
+ * @author Levi Williams Student Number 218250142
+
  */
 public class AnimalTest {
     
